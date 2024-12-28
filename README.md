@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design, Technology & Business
 - 🌱 I’m currently learning Advance Prototyping
 - 💞️ I’m looking to collaborate on projects involving UI/UX design, branding, or digital product development, especially in the tech or creative industries.
-- 📫 Reach me through mail
+- 📫 Reach me through Linkedin @yashi-raikwar-yr 
 
 <!---
 Yashi-raikwar/Yashi-raikwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
